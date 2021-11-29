@@ -1,0 +1,20 @@
+h1.tytul{
+ color: rgb(57, 57, 131);
+
+}
+
+#kont{
+background-color: lightgray;
+padding: 2% 4%;
+}
+
+li.dodaj{
+    margin-bottom: 0.4%;
+}
+
+#logowanie{
+    margin-left: 30%;
+    margin-top: 10%;
+    color: rgb(57, 57, 131);
+    font-size: 2em;
+}
